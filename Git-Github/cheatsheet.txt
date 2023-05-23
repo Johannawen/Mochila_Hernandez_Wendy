@@ -1,0 +1,22 @@
+mkdir, comando utilizado para crear carpetas.
+cd, abrir carpetas.
+ls -R, para ver de manera recursiva todo lo que se encuentra en la carpeta.
+git config user.name, para configurar el usuario.
+git config user.name, configurar usuario cuando estamos en una computadora que no es nuestra.
+git config --global user.name, configurar mi usuario en mi computadora.
+git init, hacer seguimiento de todo lo que hay dentro de mi carpeta.
+git status, chequear el estado de los archivos.
+git add ., agregar los archivos a ADDED o stagin area.
+git commit -m, guardar el estado de los archivos.
+git config -l, chequear la configuracion del nombre y del email.
+git log, para saber si mi proyecto se guardo en el commit.
+git checkout, para volver al commit anterior.
+git push origin main, subir informacion al repositorio cuando se tienen varias ramas.
+git clone, para clonar.
+git pull origin main, para bajar los cambios del compañero o equipo.
+git remote add origin, para vincular con el repositorio remoto.
+git remove -v, para saber si el repositorio ya esta vinculado.
+git branch, ver una rama.
+git branch + nombre de la rama, para crear una rama nueva.
+git checkout, para cambiar a la rama que creamos.
+git merge, para mergear. Volvemos a la rama principal.
