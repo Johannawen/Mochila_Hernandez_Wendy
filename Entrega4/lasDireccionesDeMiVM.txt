@@ -1,0 +1,10 @@
+1. la IP privada y publica de la maquina virtual ?
+Mi IP de la maquina virtual es la siguiente: inet: 10.0.2.15
+
+2. La Direccion MAC ?
+La direccion MAC es la siguiente: direccionHW 08:00:27:a7:b6:9a
+
+3. Es diferente la IP publica y privada de nuestra maquina hots ?
+Claro que si son diferentes, la IP publica y privada tienen diferentes propositos. la IP publica es la que se asigna a mi modem por mi proveedor de servicios de internet, esta es la unica que se utiliza para identificar mi red en internet.
+
+ La direccion IP privada es una direccion que se asigna en mi maquina hots, en una red local, como una red domestica o de oficina.  
