@@ -1,0 +1,10 @@
+1. ventajas de SSH
+utiliza tecnicas criptograficas para proteger la comunicacion entre el cliente y el servidor.
+conexiones remotas: SSH permite acceder y administrar sistemas remotos de manera segura.
+
+2. Desventajas de SSH: en algunos entornos de red, como redes corporativas o proveedores de servicios de internet, los puertos utilizados por SSH pueden estar bloqueados por razones de seguridad.
+Actualizaciones de seguridad: Aunque SSH es generalmente seguro, no esta exento de posibles vulnerabilidades.
+
+3. diferencia entre TELNETD y SSH:
+Telnetd transmite los datos en texto sin cifrar, lo que significa que cualquier persona que pueda interceptar la comunicacion puede leer y capturar informacion cofidencial, como contra¤as. En contrase¤as SSH cifra todo los datos transmitidos, brindadndo una capa adicional de seguridad. 
+Telnet solo admite el protocolo telnet, mientras que SSH admite multiples protocolos y servicios.
